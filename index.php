@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Hassan-Shakeri</title>
+<title>dr.Hassan-Shakeri</title>
 <meta name="keywords" content="single, slider, free templates, website templates, CSS, HTML" />
 <meta name="description" content="Single Slider is a free CSS template provided by templatemo.com" />
 <link href="css/templatemo_style.css" rel="stylesheet" type="text/css" />
@@ -12,17 +12,17 @@
 <script src="js/jquery.kwicks-1.5.1.pack.js" type="text/javascript"></script>
 
 <script type="text/javascript">
-	$().ready(function() {  
-		$('.kwicks').kwicks({  
-			max : 710,  
-			spacing : 0,  
+	$().ready(function() {
+		$('.kwicks').kwicks({
+			max : 710,
+			spacing : 0,
 			sticky: true,
-		});  
-	}); 
+		});
+	});
 </script>
-<script type="text/javascript" src="js/jquery-1-4-2.min.js"></script> 
-<link rel="stylesheet" href="css/slimbox2.css" type="text/css" media="screen" /> 
-<script type="text/JavaScript" src="js/slimbox2.js"></script> 
+<script type="text/javascript" src="js/jquery-1-4-2.min.js"></script>
+<link rel="stylesheet" href="css/slimbox2.css" type="text/css" media="screen" />
+<script type="text/JavaScript" src="js/slimbox2.js"></script>
 
 </head>
 
@@ -30,14 +30,14 @@
 
 <div id="templatemo_wrapper">
 	<div id="templatemo_main">
-	
+
 		<div id="site_title">
 			<h1><a href="http://www.templatemo.com"></a></h1>
 		</div>
-		
+
 		<div id="templatemo_content">
 			<ul class="kwicks">
-			
+
 				<li id="home"><span class="header"></span>
 					<div class="inner">
 						<h2>Welcome to Hassan Shakeri Website</h2>
@@ -66,7 +66,7 @@
 						</div></em></p>
 					</div>
 				</li>
-			
+
 				<li id="about"><span class="header"></span>
 					<div class="inner">
 						<h2>About</h2>
@@ -97,10 +97,10 @@
 
 							</ul>
 						</div></em></p>
-					
+
 					</div>
 				</li>
-			
+
 				<li id="social"><span class="header"></span>
 					<div class="inner">
 						<h2>Social</h2>
@@ -108,14 +108,14 @@
 						<ul class="social_links">
 							<li><a href="Resume for Site.docx" class="resum">resum</a></li>
 							<li><a href="users/index.php" class="PanelMembers">Panel Members</a></li>
-							<li><a href="form.php" class="Membership">Membership</a></li> 
+							<li><a href="form.php" class="Membership">Membership</a></li>
                             <!--<li><a href="#" class="news">news</a></li>-->
 							<li><a href="http://itsa.mshdiau.ac.ir/index.php" class="it">IT Community </a></li>
                             <li><a href="http://mshdiau.ac.ir/" class="azad">Islamic Azad University</a></li>
 						</ul>
 					</div>
 				</li>
-			
+
 				<li id="portfolio"><span class="header"></span>
 					<div class="inner">
 						<h2>Portfolio</h2>
@@ -129,7 +129,7 @@
 						</ul>
 					</div>
 				</li>
-				
+
 				<li id="contact"><span class="header"></span>
 					<div class="inner">
 						<h2>Contact Me</h2>
@@ -137,33 +137,33 @@
 						<h4>Send Me a message!</h4>
 						<div id="contact_form"  class="col_w280 float_l">
 							<form method="post" name="contact" action="#">
-							
+
 								<label for="author">subject:</label> <input type="text" id="author" name="subject" class="required input_field" />
 								<div class="cleaner h10"></div>
 								<label for="email">your Email:</label> <input type="text" id="email" name="email" class="validate-email required input_field"  />
 								<div class="cleaner h10"></div>
-				
+
 								<label for="text">Message:</label> <textarea id="text" name="message" rows="0" cols="0" class="required"></textarea>
 								<div class="cleaner h10"></div>
-								
+
 								<input type="submit" value="Send" id="submit" name="submit" class="" />
-								
-								
+
+
 							</form>
 						</div>
-                        
+
                         <div class="col_w280 float_r">
                             <h4>Mailing Address</h4>
-                            
-                            <strong>Phone:</strong> : 0511 - 6622789<br />          
+
+                            <strong>Phone:</strong> : 0511 - 6622789<br />
                             <strong>Email:</strong> shakeri@mshdiau.ac.ir
                			</div>
-						
+
 					</div>
 				</li>
-			
+
 			</ul>
-			
+
 		</div> <!-- END of content -->
 	</div> <!-- END of templatemo_main -->
     <div id="templatemo_footer"> desining by fatemeh alizadeh<a href="http://www.templatemo.com" target="_parent"></a></div>
